@@ -1,0 +1,9 @@
+{
+  "name": "tax-relief-cpa-website",
+  "private": true,
+  "description": "Tax Relief CPA — Ronald A. Muscarella, CPA, PA",
+  "scripts": {
+    "dev": "python3 -m http.server 7654",
+    "start": "python3 -m http.server 7654"
+  }
+}

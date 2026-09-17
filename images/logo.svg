@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 90" role="img" aria-label="TaxReliefCPA.com — Ronald A Muscarella, CPA">
+  <!-- Icon: stylized rm lettermark -->
+  <g>
+    <!-- dark blue left arch of m -->
+    <rect x="0" y="0" width="48" height="80" rx="4" fill="#005ba9"/>
+    <!-- teal overlay arch -->
+    <rect x="28" y="0" width="40" height="80" rx="4" fill="#1ba3b8"/>
+    <!-- white m cutout -->
+    <text x="6" y="62" font-family="Georgia, serif" font-weight="700" font-size="58" fill="white" letter-spacing="-2">m</text>
+  </g>
+  <!-- Wordmark -->
+  <text x="80" y="52" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-weight="700" font-size="42" letter-spacing="-0.5">
+    <tspan fill="#003d7a">Tax</tspan><tspan fill="#1ba3b8">Relief</tspan><tspan fill="#003d7a">CPA.com</tspan>
+  </text>
+  <!-- Tagline -->
+  <text x="82" y="74" font-family="'Arial', sans-serif" font-weight="400" font-size="16" fill="#005ba9" letter-spacing="0.3">Ronald A Muscarella, CPA</text>
+</svg>
