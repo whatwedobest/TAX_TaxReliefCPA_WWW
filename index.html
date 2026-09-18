@@ -10,6 +10,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/styles.css?v=5" />
   <style>
+    .about-photo { overflow: visible; }
+    .about-photo img { border-radius: 12px; }
     .about-photo .about-badge {
       display: grid;
       place-content: center;
@@ -19,11 +21,12 @@
       padding: 16px;
       background: #001e45;
       color: #fff;
-      bottom: 24px;
-      right: 24px;
+      bottom: 20px;
+      right: 20px;
       border-radius: 10px;
       text-align: center;
       box-shadow: 0 8px 48px rgba(0, 30, 69, .18);
+      z-index: 2;
     }
     .about-photo .about-badge .num,
     .about-photo .about-badge .lbl {
